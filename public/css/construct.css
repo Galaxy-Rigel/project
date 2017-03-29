@@ -1,0 +1,134 @@
+.con-content {
+  min-width: 480px;
+  font-family: "Microsoft YaHei";
+}
+.con-content .con-top {
+  background-image: url(../images/construct/yz-ban2.jpg);
+  height: 340px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+@media screen and (max-width: 760px) {
+  .con-content .con-top {
+    background-image: url("../images/construct/ban1.jpg");
+  }
+}
+.con-content .con-mid {
+  padding-bottom: 50px;
+}
+.con-content .con-mid .con-mid-do {
+  text-align: center;
+  padding: 29px 0 42px 0;
+  font-size: 24px;
+  color: #000;
+}
+.con-content .con-mid .con-mid-do .con-mid-til {
+  padding-top: 29px;
+}
+.con-content .con-mid .con-mid-txt {
+  width: 959px;
+  text-align: center;
+  font-size: 14px;
+  margin: 0 auto;
+  line-height: 26px;
+  color: #3a3a3a;
+}
+.con-content .con-mid .con-mid-img {
+  text-align: center;
+  margin-top: 32px;
+  overflow: hidden;
+}
+.con-content .con-mid .con-mid-img .con-img-wp {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+@media screen and (min-width: 760px) {
+  .con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 760px) {
+  .con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox1 {
+    display: block;
+  }
+  .con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox1 img {
+    width: 100%;
+  }
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox {
+  width: 800px;
+  height: 550px;
+  margin: 0 auto;
+  position: relative;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box {
+  position: absolute;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box img {
+  display: inline-block;
+  float: left;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box1 {
+  top: 18%;
+  left: 0;
+  width: 24%;
+  height: 36%;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box2 {
+  top: 27%;
+  left: 33.5%;
+  width: 24%;
+  height: 37%;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box3 {
+  top: 0;
+  left: 44%;
+  width: 24%;
+  height: 37%;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box4 {
+  top: 13%;
+  right: 0;
+  width: 35%;
+  height: 58%;
+}
+.con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox .con-img-box5 {
+  top: 44.5%;
+  left: 7.5%;
+  width: 33%;
+  height: 55%;
+}
+@media screen and (max-width: 760px) {
+  .con-content .con-mid .con-mid-img .con-img-wp .con-img-ibox {
+    display: none;
+  }
+}
+.con-content .con-red {
+  background-color: #ca192b;
+}
+.con-content .con-red .con-mid-til {
+  color: #f7f7f7;
+}
+.con-content .con-red .con-mid-txt {
+  color: #f7f7f7;
+}
+.con-content .con-red .con-mid-list {
+  width: 810px;
+  margin: 38px auto 0;
+  text-align: center;
+  color: #f7f7f7 ;
+}
+.con-content .con-red .con-mid-list .con-mid-list-a img {
+  padding-bottom: 30px;
+}
+.con-content .con-red .con-mid-list .con-mid-list-a span {
+  display: block;
+  font-size: 14px;
+  font-family: "Microsoft YaHei";
+  padding-bottom: 9px;
+}
+.con-content .con-red .con-mid-list .con-mid-list-a p {
+  font-size: 12px;
+}

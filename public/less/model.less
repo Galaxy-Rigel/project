@@ -1,0 +1,167 @@
+.model-body{
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  img{
+
+    width: 100%;
+  }
+  .moban-bg{
+    height: 340px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url("../images/model/yz-ban1.jpg");
+  }
+  .moban-nav-img{
+    display: none;
+    padding-top:38%;
+    position: relative;
+    img{
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top:0;
+    };
+  }
+
+  @media all and (max-width: 768px) {
+    .moban-bg {
+      display: none;
+    }
+    .moban-nav-img{
+      display: block;
+    }
+  }
+  .moban-nav{
+    text-align: center;
+    margin-top: 3%;
+    height: 55px;
+    ul{
+      display: block;
+      text-align: center;
+      list-style: none;
+      li{
+        display: inline-block;
+        border: 1px solid lightgray;
+        margin-right: 20px;
+        cursor: pointer;
+      }
+      li:hover{
+        background-color: #ff9510;
+        a span{
+          color: #FFFFFF;
+        }
+      }
+
+      .moban-li0:hover{
+        span{
+          background-image:url("../images/model/con-nv1-on.png") ;
+        }
+      }
+      .moban-li1:hover{
+        span{
+          background-image:url("../images/model/con-nv2-on.png") ;
+        }
+      }
+      .moban-li2:hover{
+        span{
+          background-image:url("../images/model/con-nv3-on.png") ;
+        }
+      }
+      .moban-li3:hover{
+        span{
+          background-image:url("../images/model/con-nv4-on.png") ;
+        }
+      }
+      .moban-li4:hover{
+        span{
+          background-image:url("../images/model/con-nv5-on.png") ;
+        }
+      }
+      a{
+        padding: 15px;
+        color:black;
+        span{
+          display: inline-block;
+          background-repeat: no-repeat;
+          background-position: left center;
+          padding: 16px 0px 16px 31px;
+        }
+      }
+    }
+  }
+  .moban-li0 a span{
+    background-image: url("../images/model/con-nv1-on.png");
+  }
+  .moban-li1 a span{
+    background-image: url("../images/model/con-nv2.png");
+  }
+  .moban-li2 a span{
+    background-image: url("../images/model/con-nv3.png");
+  }
+  .moban-li3 a span{
+    background-image: url("../images/model/con-nv4.png");
+  }
+  .moban-li4 a span{
+    background-image: url("../images/model/con-nv5.png");
+  }
+  .moban-content{
+    margin-top:30px;
+    ul,li{
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  }
+  .moban-content-list{
+    width: 100%;
+  }
+  .moban-content-list li a{
+    background-color: rgba(0,0,0,.7);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    opacity: 0;
+  }
+  .moban-content-list li span{
+    background-position:center;
+    background-repeat:no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+  }
+  .moban-content-list li{
+    overflow: hidden;
+    img{
+      transition: all 1s;
+    }
+  }
+  .moban-on{
+    transform:scale(1.1)
+  }
+  .moban-active{
+    background-color: #ff9510;
+
+  }
+  .moban-bg-on{
+    color: white;
+  }
+  /***个性建站**/
+  .jianzhan-content ul li:hover a{
+    opacity: 1;
+  }
+  .jianzhan-content ul li:hover img{
+    transition: all 1s;
+    transform:scale(1.1);
+  }
+  .jianzhan-content ul li img{
+    //height: 316px;
+  }
+
+}

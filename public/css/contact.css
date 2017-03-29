@@ -1,0 +1,130 @@
+.page-contact .contact-banner {
+  height: 340px;
+  background: url('../images/contact/ban2.jpg') center no-repeat;
+  background-size: cover;
+}
+.page-contact .contact-img {
+  display: none;
+  padding-top: 38%;
+  position: relative;
+}
+.page-contact .contact-img img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+}
+@media (max-width: 768px) {
+  .page-contact .contact-banner {
+    display: none;
+  }
+  .page-contact .contact-img {
+    display: block;
+  }
+}
+.page-contact .contact-title {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  background: url("../images/contact/g-tit1-bg.png") no-repeat bottom center;
+}
+.page-contact .contact-title i {
+  font-size: 28px;
+  font-style: normal;
+  font-family: "Microsoft YaHei";
+}
+.page-contact .contact-title em {
+  font-size: 22px;
+  display: inline-block;
+  margin: 0 10px;
+}
+.page-contact .contact-title a {
+  font-size: 18px;
+  font-family: "Microsoft YaHei";
+  text-decoration: none;
+  color: #333;
+}
+.page-contact #contact-form {
+  margin-bottom: 20px;
+}
+.page-contact .contact-middle {
+  margin: 45px 0;
+}
+.page-contact .contact-middle #contact-map {
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 400px;
+  margin: 0 auto;
+}
+.page-contact .contact-middle .glyphicon {
+  top: 0px;
+}
+.page-contact .contact-middle .input-group {
+  margin-bottom: 10px;
+}
+.page-contact .contact-middle .form-control {
+  font-size: 13px;
+  background: #f7f6f6;
+  border-left: none;
+  padding-left: 0;
+}
+.page-contact .contact-middle .form-control:focus {
+  border-color: #cccccc;
+  outline: 0;
+  box-shadow: none;
+}
+.page-contact .contact-middle .input-group-addon {
+  background: #f7f6f6;
+}
+.page-contact .contact-middle .msg {
+  height: 324px;
+  position: relative;
+  width: 100%;
+  border: 1px solid #ccc;
+  background-color: #f7f6f6;
+  margin-bottom: 10px;
+}
+.page-contact .contact-middle .msg span {
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  height: 20px;
+  font-size: 13px;
+  color: #999;
+}
+.page-contact .contact-middle .msg span i {
+  color: #555;
+  top: 1px;
+  margin-right: 12px;
+}
+.page-contact .contact-middle .msg textarea {
+  width: 100%;
+  height: 100%;
+  resize: none;
+  border: none;
+  font-size: 13px;
+  padding: 40px 10px;
+  background-color: #f7f6f6;
+}
+.page-contact .contact-middle .contact-code {
+  overflow: hidden;
+}
+.page-contact .contact-middle .contact-code .col-xs-7 {
+  padding: 0;
+}
+.page-contact .contact-middle .contact-code .col-xs-5 {
+  padding-right: 0;
+}
+.page-contact .contact-middle .contact-code .code {
+  border-radius: 3px;
+  padding: 2px 0;
+  border: 1px solid silver;
+  color: orangered;
+  font-weight: 800;
+  font-size: 20px;
+  text-align: center;
+  background: #f7f6f6;
+}
+.page-contact .contact-text h4 {
+  font-family: "Microsoft YaHei";
+  margin: 20px 0;
+}

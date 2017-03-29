@@ -1,0 +1,185 @@
+.page-about{
+    ul{
+        margin: 0;
+        padding:0;
+        li{
+            list-style: none;
+        }
+    }
+    .about-banner{
+        height: 340px;
+        background: url('../images/about/ban1.jpg') center no-repeat;
+        background-size: cover;
+    }
+    .about-img{
+        display: none;
+        padding-top: 38%;
+        position: relative;
+        img{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0px;
+        }
+    }
+    @media (max-width: 768px) {
+        .about-banner {
+            display: none;
+        }
+        .about-img {
+            display: block;
+        }
+    }
+    #about-db{
+        padding-top: 59px;
+        .about-wp{
+            padding: 30px 50px;
+            width: 98%;
+            margin: 0 auto;
+            .about-title{
+                margin: 0;
+                padding: 0;
+                font-size: 24px;
+                font-weight: normal;
+                position: relative;
+                font-family: "Microsoft Yahei";
+            }
+            .about-title:after{
+                position: absolute;
+                content: '';
+                width: 42px;
+                height: 2px;
+                background-color: #222;
+                left: 50%;
+                margin-left: -21px;
+                bottom: -9px;
+            }
+            .about-subhead{
+                background: url("../images/about/ico-01.png") left center no-repeat;
+                font-size: 18px;
+                font-family: "Microsoft Yahei";
+                color: #555;
+                padding: 60px 0 25px 40px;
+                em{
+                    font-style: normal;
+                    font-family: "Arial";
+                    color: #999;
+                }
+            }
+            .about-txt p{
+                font-family: "宋体";
+                font-size: 14px;
+                color: #666;
+                line-height: 30px;
+                margin: 0;
+            }
+        }
+    }
+    .about-service{
+        padding-top: 25px;
+        background-image: url("../images/about/pic-01.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: auto;
+        background-position: 50% 50%;
+        color: #fff;
+        .about-service-wp{
+            width: 98%;
+            margin: 0 auto;
+            h3{
+                font-family: "Arial";
+                font-size: 27px;
+                position: relative;
+            }
+            h3:after{
+                position: absolute;
+                content: '';
+                width: 60px;
+                height: 3px;
+                background-color: #fff;
+                left: 50%;
+                margin-left: -30px;
+                bottom: -9px;
+            }
+            ul{
+                margin-top: 30px;
+                li{
+                    padding: 0 30px;
+                    margin-bottom: 40px;
+                    h4{
+                        font-size: 24px;
+                        font-family: "Microsoft Yahei";
+                    }
+                    p{
+                        height: 116px;
+                        font-family: "宋体";
+                        font-size: 12px;
+                        color: #fff;
+                        line-height: 29px;
+                        overflow: hidden;
+                    }
+                }
+            }
+        }
+    }
+    .about-num{
+        padding: 40px 0;
+        border-bottom: 1px solid #edecec;
+        .about-num-wp{
+            width: 98%;
+            margin: 0 auto;
+            li{
+                overflow: hidden;
+                padding: 0 20px;
+            }
+            .num-title{
+                float: left;
+                color: #ff9510;;
+                font-size: 40px;
+                background: url("../images/about/ico-02.png") no-repeat right center;
+                min-height: 80px;
+                line-height: 37px;
+                padding-right: 10px;
+                em{
+                    font-style: normal;
+                    font-size: 48px;
+                }
+            }
+            .num-txt{
+                overflow: hidden;
+                padding-left: 10px;
+                h4{
+                    color: #ff9510;;
+                    font-family: "Microsoft Yahei";
+                    margin-top: 20px;
+                    font-size: 16px;
+                }
+                p{
+                    font-family: "宋体";
+                    font-size: 13px;
+                    color: #666;
+                    line-height: 24px;
+                    margin: 0;
+                }
+            }
+        }
+    }
+    .about-team{
+        width: 98%;
+        margin: 0 auto;
+        .team-wp{
+            padding: 30px 50px 60px 50px;
+            h4{
+                font-size: 15px;
+                color: #ff9510;
+            }
+            p{
+                font-size: 14px;
+                color: #666;
+                line-height: 28px;
+                margin: 0;
+            }
+        }
+    }
+}
+

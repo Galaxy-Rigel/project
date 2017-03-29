@@ -1,0 +1,1742 @@
+﻿
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+<html lang="zh-CN">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<title>首页-网站建设|网站制作|网站设计|网站开发|WAP网站上海互慧网络科技有限公司</title><meta name="keywords" content="网站建设,网站制作,网站设计,网站开发,APP开发,响应式网站建设,WAP网站建设,微信网站建设,手机网站开发" /><meta name="description" content="互慧网络科技有限公司一直坚持在为高端网站建设以及网络营销而努力，我们致力于网站建设、网站制作、APP开发、响应式网站建设、WAP网站建设、微网站建设等网络营销等一条龙服务。咨询热线021-31157880"/>
+
+	<meta name="wap-font-scale" content="no">
+
+	<meta name="format-detection" content="telephone=no">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<link rel="stylesheet" href="css/cui.css" />
+
+	<link rel="stylesheet" href="css/lib.css" />
+
+	<link rel="stylesheet" href="css/style.css" />
+
+	<link rel="stylesheet" href="css/less.css">
+
+    <script src="js/jquery.js"></script>
+
+    <script src="js/lib.js"></script>
+
+    <script src="js/liuyan.js"></script>
+
+</head>
+
+<body>
+
+    <!-- 头部 -->
+
+    
+
+<div id="hd" class="fix">
+        <a href="javascript:void(0);" class="menu-btn"></a>
+        <div class="wp2">
+            <div class="logo"><a href=""><img src="images/logo.png" alt=""></a></div>
+            <div class="nv">
+                <ul>
+                    <li >
+                        <a href="index.html">
+                            <span class="span1">HOME</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="gexing-0.html">
+                            <span class="span1">个性建站</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="moban-0.html">
+                            <span class="span1">精选模版</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="jianshe.html">
+                            <span class="span1">网站建设</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="new.html">
+                            <span class="span1">技术资讯</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="about.html">
+                            <span class="span1">关于我们</span>
+                        </a>
+                    </li>
+                    <li  >
+                        <a href="contact.html">
+                            <span class="span1">联系我们</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+	<!-- 头部 end -->
+
+    
+
+    <!-- 内容 -->
+
+    <div id="bd">
+
+        <!-- banner -->
+
+        <div id="banner" class="phone-hide">
+
+            <a href="#md1" class="go-next"></a>
+
+            <div class="slider">
+
+                
+
+                
+
+                        <div class="item it1">
+
+                    <div class="img">
+
+                        <img src="/kindeditor/attached/image/20160911/20160911150141_8175.jpg" alt="" class="bg" /> 
+<div class="img1">
+	<img src="/kindeditor/attached/image/20160911/20160911145913_4790.png" alt="" class="fadeInUp" /> 
+</div>
+
+                    </div>
+
+                </div>
+
+                    
+
+                        <div class="item it1">
+
+                    <div class="img">
+
+                        <img src="images/index-ban3.jpg" alt="" class="bg" /> 
+<div class="img1">
+	<img src="images/ban3-img1.png" alt="" class="fadeInDown" /> 
+</div>
+
+                    </div>
+
+                </div>
+
+                    
+
+                        <div class="item it1">
+
+                    <div class="img">
+
+                        <img src="/kindeditor/attached/image/20160902/20160902113613_8427.jpg" alt="" class="bg" /> 
+<div class="img1">
+	<img src="/kindeditor/attached/image/20160902/20160902114047_2111.png" alt="" class="fadeInUp" /> 
+</div>
+
+                    </div>
+
+                </div>
+
+                    
+
+                
+
+            </div>
+
+        </div>
+
+        
+
+        <!-- banner end -->
+
+        <!-- banner -->
+
+        <div id="banner" class="pc-hide">
+
+            <a href="#md1" class="go-next"></a>
+
+            <div class="slider">
+
+                
+
+                        <div class="item  ">
+
+                    <div class="img">
+
+                        <img src="uploadfile/images/201692151737794.jpg" alt="" class="bg">
+
+                    </div>
+
+                </div>
+
+                    
+
+                        <div class="item it1 ">
+
+                    <div class="img">
+
+                        <img src="uploadfile/images/2016921516534171.jpg" alt="" class="bg">
+
+                    </div>
+
+                </div>
+
+                    
+
+                        <div class="item it2 ">
+
+                    <div class="img">
+
+                        <img src="uploadfile/images/2016921516429725.jpg" alt="" class="bg">
+
+                    </div>
+
+                </div>
+
+                    
+
+                
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <!-- banner end -->
+
+
+
+        <!-- 我们的服务 -->
+
+        <div class="service" id="md1">
+
+            <div class="wp2">
+
+                <div class="g-tit1 wow fadeInUp">
+
+                    <i>service</i><em>/</em><u>我们的服务</u>
+
+                </div>
+
+                <div class="list">
+
+                    <ul>
+
+                        
+
+                                 <li class="li1 wow fadeInUp">
+
+                            <div class="box">
+
+                                <h5><span>网站建设</span></h5>
+
+                                <h4>建立一个高质量、国际化的网站</br>成为企业的销售利器</h4>
+
+                                <p>
+	Build a high quality, internationalization of web site,Become the enterprise sales tool
+</p>
+
+                                <em></em>
+
+                            </div>
+
+                        </li>
+
+                            
+
+                                 <li class="li2 wow fadeInUp">
+
+                            <div class="box">
+
+                                <h5><span>整合营销</span></h5>
+
+                                <h4>集结几种行之有效的传播途径</br>使企业收益最大化</h4>
+
+                                <p>
+                                    Assembled several effective route of transmissionTo maximize profits
+                                </p>
+
+                                <em></em>
+
+                            </div>
+
+                        </li>
+
+                            
+
+                                 <li class="li3 wow fadeInUp">
+
+                            <div class="box">
+
+                                <h5><span>APP应用开发</span></h5>
+
+                                <h4>准确把握产品定位及传播受众需求</br>完美实现您的想法</h4>
+
+                                <p>
+	Grasp the product positioning and communication audience demand
+</p>
+
+                                <em></em>
+
+                            </div>
+
+                        </li>
+
+                            
+
+                                 <li class="li4 wow fadeInUp">
+
+                            <div class="box">
+
+                                <h5><span>品牌&产品平面设计</span></h5>
+
+                                <h4>展示企业形象 </br>宣传产品与服务</h4>
+
+                                <p>
+	Show the image of enterprise
+                                    Promote products and services
+</p>
+
+                                <em></em>
+
+                            </div>
+
+                        </li>
+
+                            
+
+                       
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- 我们的服务 end -->
+
+        <div class="c"></div>
+
+        <!-- 为什么选择互慧 -->
+
+        <div class="index-row1" style="background-image:url(images/yz-pic1.jpg);">
+
+            <h5 class="wow fadeInUp">为什么选择互慧<img src="images/wenhao.png" alt=""></h5>
+
+            <div class="wp3 wow fadeInUp">
+
+                <ul class="numb-list">
+
+                    <li>
+
+                        <div class="box">
+
+                            <div class="numb timer" data-from="0" data-to="10" data-speed="4000" data-refresh-interval="50">10</div>
+
+                            <p>10年风雨同程携手并进</p>
+
+                        </div>
+
+                    </li>
+
+                    <li>
+
+                        <div class="box">
+
+                            <div class="numb timer" data-from="0" data-to="4" data-speed="4000" data-refresh-interval="50">4</div>
+
+                            <p>4大业务模块的整合</p>
+
+                        </div>
+
+                    </li>
+
+                    <li>
+
+                        <div class="box">
+
+                            <div class="numb timer" data-from="0" data-to="100" data-speed="4000" data-refresh-interval="50">100</div>
+
+                            <p>100+多家知名品牌客户</p>
+
+                        </div>
+
+                    </li>
+
+                    <li>
+
+                        <div class="box">
+
+                            <div class="numb timer" data-from="0" data-to="12" data-speed="4000" data-refresh-interval="50">12</div>
+
+                            <p>服务品牌总市值超过12,000亿</p>
+
+                        </div>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+            
+
+        </div>
+
+        <!-- 为什么选择互慧 end -->
+
+
+
+        <!-- 优秀项目 -->
+
+        <div class="g-tit2 wow fadeInUp">
+
+            <h5>优秀的项目是怎么<em>做</em>的？</h5>
+
+            <p>优化产品流程，增强产品的易用性，提高使用者的工作效率，科学地组织生产。</p>
+
+        </div>
+
+        <div class="m-list1">
+
+            <div class="wp">
+
+                <ul>
+
+                    <li class="li1 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.5s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>需求沟通</h5>
+
+                                <p>倾听客户需求，了解用户使用环境和操作流程</p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                    <li class="li2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>交互设计</h5>
+
+                                <p>
+
+                                    头脑风景交互情景模拟</br>
+
+                                    原型设计
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                    <li class="li3 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.5s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>视觉创意</h5>
+
+                                <p>
+
+                                    色彩及平面元素设定，结构</br>
+
+                                    和布局规范确认
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                    <li class="li4 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="2s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>前端制作</h5>
+
+                                <p>
+
+                                    CSS3，JS、HTML5实现</br>
+
+                                    页面的动态展示
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                    <li class="li5 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="2.5s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>技术开发</h5>
+
+                                <p>移动应用数据对接与开发</p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                    <li class="li6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="3s">
+
+                        <div class="box">
+
+                            <em></em>
+
+                            <div class="txt">
+
+                                <h5>测试反馈</h5>
+
+                                <p>修改调整，规范完善</p>
+
+                            </div>
+
+                        </div>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <!-- 优秀项目 end -->
+
+
+
+        <!-- 我们的案例 -->
+
+        <div class="index-row2" style="background-image:url(images/case-bg.jpg);">
+
+            <div class="g-tit1 g-tit1-b wow fadeInUp">
+
+                <i>CASE</i><em>/</em><u>我们的案例</u>
+
+            </div>
+
+            <div class="wp">
+
+                <div class="case wow fadeIn case-imgbox">
+
+                    <div class="slider">
+
+                        <div class="item">
+
+                            <div class="ibox">
+
+                                <div class="box1"><a href="http://www.webhh.net/gexing2.aspx?ID=79" style="background-image:url(uploadfile/images/2016914934221946.jpg);"><span style="background-image:url(uploadfile/images/2016914934242939.png);"></span></a></div>
+
+                                <div class="box2"><a href="http://www.webhh.net/gexing2.aspx?ID=71" style="background-image:url(uploadfile/images/2016921033203895.jpg);"><span style="background-image:url(uploadfile/images/201696105511123.png);"></span></a></div>
+
+                                <div class="box3"><a href="http://www.webhh.net/gexing2.aspx?ID=67" style="background-image:url(uploadfile/images/2016914102282085.jpg);"><span style="background-image:url(uploadfile/images/2016951551492383.png);"></span></a></div>
+
+                                <div class="box4"><a href="http://www.webhh.net/gexing2.aspx?ID=131" style="background-image:url(uploadfile/images/20169141023277375.jpg);"><span style="background-image:url(uploadfile/images/201698153726855.png);"></span></a></div>
+
+                                <div class="box5"><a href="http://www.webhh.net/gexing2.aspx?ID=167" style="background-image:url(uploadfile/images/2016914943569002.jpg);"><span style="background-image:url(uploadfile/images/2016991355482100.png);"></span></a></div>
+
+                                <div class="box6"><a href="http://www.webhh.net/gexing2.aspx?ID=66" style="background-image:url(uploadfile/images/2016914101516497.jpg);"><span style="background-image:url(uploadfile/images/2016914941344757.png);"></span></a></div>
+
+                                <div class="box7"><a href="http://www.webhh.net/gexing2.aspx?ID=162" style="background-image:url(uploadfile/images/2016914938359340.jpg);"><span style="background-image:url(uploadfile/images/2016914938406332.png);"></span></a></div>
+
+                                <div class="box8"><a href="http://www.webhh.net/gexing2.aspx?ID=69" style="background-image:url(uploadfile/images/2016914102666827.jpg);"><span style="background-image:url(uploadfile/images/2016914940228619.png);"></span></a></div>
+
+                                <div class="box9"><a href="http://www.webhh.net/gexing2.aspx?ID=101" style="background-image:url(uploadfile/images/20169141020265568.jpg);"><span style="background-image:url(uploadfile/images/20169141020273370.png);"></span></a></div>
+
+                                <div class="box10"><a href="http://www.webhh.net/gexing2.aspx?ID=84" style="background-image:url(uploadfile/images/201691495132870.jpg);"><span style="background-image:url(uploadfile/images/2016914957375255.png);"></span></a></div>
+
+                                <div class="box11"><a href="http://www.webhh.net/gexing2.aspx?ID=68" style="background-image:url(uploadfile/images/2016981820297485.jpg);"><span style="background-image:url(uploadfile/images/201695175229271.png);"></span></a></div>
+
+                                <div class="box12"><a href="http://www.webhh.net/gexing2.aspx?ID=97" style="background-image:url(uploadfile/images/2016914101644279.jpg);"><span style="background-image:url(uploadfile/images/2016914101692527.png);"></span></a></div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="item">
+
+                            <div class="ibox">
+
+                                <div class="box1"><a href="http://www.webhh.net/gexing2.aspx?ID=79" style="background-image:url(uploadfile/images/2016914934221946.jpg);"><span style="background-image:url(uploadfile/images/2016914934242939.png);"></span></a></div>
+
+                                <div class="box2"><a href="http://www.webhh.net/gexing2.aspx?ID=71" style="background-image:url(uploadfile/images/2016921033203895.jpg);"><span style="background-image:url(uploadfile/images/201696105511123.png);"></span></a></div>
+
+                                <div class="box3"><a href="http://www.webhh.net/gexing2.aspx?ID=67" style="background-image:url(uploadfile/images/2016914102282085.jpg);"><span style="background-image:url(uploadfile/images/2016951551492383.png);"></span></a></div>
+
+                                <div class="box4"><a href="http://www.webhh.net/gexing2.aspx?ID=131" style="background-image:url(uploadfile/images/20169141023277375.jpg);"><span style="background-image:url(uploadfile/images/201698153726855.png);"></span></a></div>
+
+                                <div class="box5"><a href="http://www.webhh.net/gexing2.aspx?ID=167" style="background-image:url(uploadfile/images/2016914943569002.jpg);"><span style="background-image:url(uploadfile/images/2016991355482100.png);"></span></a></div>
+
+                                <div class="box6"><a href="http://www.webhh.net/gexing2.aspx?ID=66" style="background-image:url(uploadfile/images/2016914101516497.jpg);"><span style="background-image:url(uploadfile/images/2016914941344757.png);"></span></a></div>
+
+                                <div class="box7"><a href="http://www.webhh.net/gexing2.aspx?ID=162" style="background-image:url(uploadfile/images/2016914938359340.jpg);"><span style="background-image:url(uploadfile/images/2016914938406332.png);"></span></a></div>
+
+                                <div class="box8"><a href="http://www.webhh.net/gexing2.aspx?ID=69" style="background-image:url(uploadfile/images/2016914102666827.jpg);"><span style="background-image:url(uploadfile/images/2016914940228619.png);"></span></a></div>
+
+                                <div class="box9"><a href="http://www.webhh.net/gexing2.aspx?ID=101" style="background-image:url(uploadfile/images/20169141020265568.jpg);"><span style="background-image:url(uploadfile/images/20169141020273370.png);"></span></a></div>
+
+                                <div class="box10"><a href="http://www.webhh.net/gexing2.aspx?ID=84" style="background-image:url(uploadfile/images/201691495132870.jpg);"><span style="background-image:url(uploadfile/images/2016914957375255.png);"></span></a></div>
+
+                                <div class="box11"><a href="http://www.webhh.net/gexing2.aspx?ID=68" style="background-image:url(uploadfile/images/2016981820297485.jpg);"><span style="background-image:url(uploadfile/images/201695175229271.png);"></span></a></div>
+
+                                <div class="box12"><a href="http://www.webhh.net/gexing2.aspx?ID=97" style="background-image:url(uploadfile/images/2016914101644279.jpg);"><span style="background-image:url(uploadfile/images/2016914101692527.png);"></span></a></div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="case-imglist">
+
+                    <ul>
+
+                        
+
+                                <li>
+
+                                    <div class="box">
+
+                                        <div class="img">
+
+                                            <img src="uploadfile/images/201696165717855.jpg" alt="">
+
+                                            <a href="http://www.webhh.net/gexing2-79.html" style="background-image:url(uploadfile/images/201696165788008.png);">
+
+                                            </a>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    <div class="box">
+
+                                        <div class="img">
+
+                                            <img src="uploadfile/images/201697144513168.jpg" alt="">
+
+                                            <a href="http://www.webhh.net/gexing2-85.html" style="background-image:url(uploadfile/images/2016981549279753.png);">
+
+                                            </a>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    <div class="box">
+
+                                        <div class="img">
+
+                                            <img src="uploadfile/images/201698163909643.jpg" alt="">
+
+                                            <a href="http://www.webhh.net/gexing2.aspx?ID=71" style="background-image:url(uploadfile/images/201696105511123.png);">
+
+                                            </a>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    <div class="box">
+
+                                        <div class="img">
+
+                                            <img src="uploadfile/images/2016971354183194.jpg" alt="">
+
+                                            <a href="http://www.webhh.net/gexing2.aspx?ID=84" style="background-image:url(uploadfile/images/2016971354261621.png);">
+
+                                            </a>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                            
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+            
+
+        </div>
+
+        <!-- 我们的案例 end -->
+
+
+
+        <!-- 专注 -->
+
+        <div class="index-row3">
+
+            <div class="col-l wow fadeInLeft">
+
+                <div class="txt">
+
+                    <h5>因为专注  所以专注</h5>
+
+                    <div class="tit">
+
+                        <h4>整合网络营销，提供专业咨询服务</h4>
+
+                        <h3>专业的团队在您的身边—— <em>互慧</em></h3>
+
+                    </div>
+
+                    <p>
+
+                        为客户提供从品牌设计、概念设计、交互设计、视觉设计、功能研发到最终产品实现。为客户提供真正具有创新价值的产品体验。
+
+                    </p>
+
+                </div>
+
+                <div class="c"></div>
+
+                <div class="btn"><a href="gexing-0.html"><span>查看更多>></span></a></div>
+
+            </div>
+
+            <div class="col-r wow fadeInRight">
+
+                <div class="img"><img src="images/yz-pic14.jpg" alt=""></div>
+
+            </div>
+
+        </div>
+
+        <!-- 专注 end -->
+
+
+
+        <!-- 新闻动态 -->
+
+        <div class="new">
+
+            <div class="g-tit1 wow fadeInDown">
+
+                <i>NEWS</i><em>/</em><u>新闻动态</u>
+
+            </div>
+
+            <div class="wp3 wow fadeIn">
+
+                <div class="col-l">
+
+                    <div class="slider">
+
+                        
+
+                                 <div class="item" src="uploadfile/images/20161011937124051.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">01</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-334.html">网站优化 | 浅谈seo优化的2点注意</a></h5>
+
+                                    <p>seo搜索引擎优化——即利用工具或者其他的各种手法，使自己的网站符合搜索引擎的搜索规则，从而获得较好的网站排名。要做好搜..</p>
+
+                                    <span>2016-11-21</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20161117141463426.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">02</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-331.html">网站建设|商城网站建设的商业价值</a></h5>
+
+                                    <p>商城网站建设是为浏览者与网站所有人搭建起一个网络平台，浏览者或潜在客户利用电子商务平台平台进行交易和交流。</p>
+
+                                    <span>2016-11-17</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/201611101130112850.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">03</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-321.html">网站制作|网站建设后网站推广需要注意的三点</a></h5>
+
+                                    <p>互慧网站建设专家提醒您：网站建设完成后，并不代表所有人都知道你的网站,想让更多人了解你的网站，就势必要做网站推广。</p>
+
+                                    <span>2016-11-09</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20161012108546902.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">04</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-265.html">上海常见的几种没有营销力的网站，你中招了么？</a></h5>
+
+                                    <p>据有关资料显示，上海本地真正具备营销价值的企业网站占比很低，绝大部分企业网站无法产生营销价值。它们既不能为品牌加分，也不..</p>
+
+                                    <span>2016-10-12</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20161091039395748.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">05</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-255.html">怎样设计网站的导航效果最佳？</a></h5>
+
+                                    <p>网站导航能将网站的内容有机地链接在一起，使用户能更快地获得网站的基本信息。一个网站的导航栏需要包括主页、联系方式、反馈以..</p>
+
+                                    <span>2016-10-09</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20169141421216109.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">06</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-245.html">设计理念在网站建设中的重要性</a></h5>
+
+                                    <p>随着互联网的高速发展，电子商务的日益盛行，越来越多的企业开始重视自身的网站建设，然而，对于自己的企业适合何种网站设计风格..</p>
+
+                                    <span>2016-09-18</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20169121751361004.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">07</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-8.html">网站优化选关键词的关键七步</a></h5>
+
+                                    <p>网站优化的时候一定会去先分析关键词，一般的站长都是从百度指数去查找关键词每天的搜索量，如果百度排名优化的搜索量比较大，说..</p>
+
+                                    <span>2016-09-18</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20169131651531996.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">08</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-172.html">企业建站的几个要素1</a></h5>
+
+                                    <p>设计主页未必很艰难。但这一工作与编制传统的宣传品一样，都需要谨慎处理和筹划。换言之，我们必须首先确定自己需要传达的主要信..</p>
+
+                                    <span>2016-09-18</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/2016912186551542.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">09</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-178.html">如何才能使网站脱颖而出呢</a></h5>
+
+                                    <p>在如今这竞争日益激烈的互联网行业中，想让自己网站脱颖而出取决于是否有足够的扩展思维,其实人多了竞争性就大了，需要的就是长..</p>
+
+                                    <span>2016-09-18</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                                 <div class="item" src="uploadfile/images/20169131731104930.jpg">
+
+                            <div class="box">
+
+                                <div class="numb">010</div>
+
+                                <div class="txt">
+
+                                    <h5><a href="new2-184.html">网站建设前期准备工作</a></h5>
+
+                                    <p>网站建设前期准备工作相当重要，这决定你建站的目的，以及日后维护网站，让你的网站发挥作用等是相当的重要。在设计网站前，必须..</p>
+
+                                    <span>2016-09-18</span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                            
+
+                    </div>
+
+                </div>
+
+                <div class="col-r">
+
+                    <div class="img"><img src="uploadfile/images/20161011937124051.jpg" alt=""></div>
+
+                </div>
+
+            </div>
+
+            
+
+        </div>
+
+        <!-- 新闻动态 end -->
+
+
+
+        <!-- 我们的客户 -->
+
+        <div class="custom  wow fadeIn">
+
+            <div class="g-tit1">
+
+                <i>CUSTOMER</i><em>/</em><u>我们的客户</u>
+
+            </div>
+
+            <div class="wp3">
+
+                <div class="slider">
+
+                    <div class="item">
+
+                        <div class="ibox">
+
+                            <ul class="list">
+
+                                
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016921113207048.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201698158382501.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201698151049671.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981840412284.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981339225425.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201698157308692.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981847143549.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201692111338937.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981847512100.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981848262258.jpg" alt=""></a></div></li>
+
+                                        </ul></div></div><div class="item"><div class="ibox"><ul class="list">
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981849127912.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981849543650.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201699132257761.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016991321378629.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981853167448.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981854254545.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/201698185625512.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981856243892.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981857198150.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                                         <li><div class="img"><a href=""><img src="uploadfile/images/2016981856537941.jpg" alt=""></a></div></li>
+
+                                        
+
+                                    
+
+                               
+
+                            
+
+                                
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- 我们的客户 end -->
+
+
+
+        <!-- 填写 -->
+
+        <div class="m-tabbox1" style="background-image:url(images/m-tabbox1.jpg);">
+
+            <div class="wp3 wow fadeIn">
+
+                <div class="col-l">
+
+                    <div class="txt">
+	<h5>
+		告诉我们您的网站制作需求<span>在线填写需求，我们将尽快为您答疑解惑</span> 
+	</h5>
+	<div class="list">
+		<p class="p1">
+			地址：上海市交通路4703弄李子园大厦6号705、706室
+		</p>
+		<p class="p2">
+			手机：18017921800
+		</p>
+		<p class="p3">
+			电话：021-31157880
+		</p>
+		<p class="p4">
+			邮箱：<a href="">sales@webhh.net</a> 
+		</p>
+	</div>
+</div>
+
+                </div>
+
+                <div class="col-r">
+
+                    <form>
+
+                        <div class="tab-l">
+
+                            <ul>
+
+                                <li>
+
+                                    <input type="text" name="" id="AdminName" class="inp" placeholder="您的姓名">
+
+                                </li>
+
+                                <li>
+
+                                    <input type="text" name="" id="Phone" class="inp" placeholder="联系电话">
+
+                                </li>
+
+                                <li>
+
+                                    <input type="text" name="" id="Emil" class="inp" placeholder="电子邮箱">
+
+                                </li>
+
+                                <li>
+
+                                    <input type="text" name="" id="Adder" class="inp" placeholder="您的地址或公司地址">
+
+                                </li>
+
+                            </ul>
+
+                        </div>
+
+                        <div class="tab-r">
+
+                            <textarea name="" id="Context" class="text" placeholder="填写详细内容"></textarea>
+
+                            <p>
+
+                           <table cellpadding="0" cellspacing="0" border="0">
+
+                            <tr><td><span>验证码：</span></td><td><input type="text" class="inp inp-b" maxlength="10" style="height:31px" size="25" name="Code" id="Code" /><input type="hidden" value="25997" id="IdentifyingCode" /></td>
+
+                            <td style=" padding-left:5px; vertical-align:middle;"><img src="CheckCode.aspx?id=25997" id="imgCode" style="cursor:pointer;" alt="看不清？点这里换一张" title="看不清？点这里换一张" onclick="this.src=('CheckCode.aspx?id=25997&random='+Math.random());"  /> &nbsp;<a href="javascript:" onclick="document.getElementById('imgCode').src=('CheckCode.aspx?id=25997&random='+Math.random());">换一张</a></td>
+
+                            </tr>
+
+                            </table>
+
+  
+
+                            </p>
+
+                            <input type="button" onclick="tijiao(1)" value="提交" class="btn">
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- 填写 end -->
+
+    </div>
+
+    <!-- 内容 end -->
+
+
+
+    <!-- 底部 -->
+
+    
+
+
+<div id="fd">
+        <a href="javascript:void(0);" class="go-top"></a>
+        <div class="wp3">
+            <div class="copy"><em>Copyright</em> ©上海互慧网络科技有限公司. All Rights Reserved.<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5750115'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s17.cnzz.com/stat.php%3Fid%3D5750115%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<div style="width:300px;margin:0 auto; padding:0px 0;float:right;">
+		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010702001838" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="images/batb.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31010702001838号</p></a>
+</div>
+</div>
+            <div class="fd-nv">
+                <dl>
+                    <dt><a href="gexing-0.html" style="color:#b8b8b8">个性建站</a></dt>
+                    
+                            <dd><a href="gexing-21.html">企业宣传</a></dd>
+                        
+                            <dd><a href="gexing-20.html">响应式网站</a></dd>
+                        
+                            <dd><a href="gexing-19.html">手机案例</a></dd>
+                        
+                            <dd><a href="gexing-18.html">功能站点</a></dd>
+                        
+                </dl>
+                <dl>
+                    <dt><a href="moban-0.html" style="color:#b8b8b8">精选模版</a></dt>
+                   
+                            <dd><a href="moban-21.html">企业宣传</a></dd>
+                        
+                            <dd><a href="moban-20.html">响应式网站</a></dd>
+                        
+                            <dd><a href="moban-19.html">手机案例</a></dd>
+                        
+                            <dd><a href="moban-18.html">功能站点</a></dd>
+                        
+                </dl>
+                <dl>
+                    <dt><a href="jianshe-0.html" style="color:#b8b8b8">网站建设</a></dt>
+                    <dd><a href="taocan.html">网站套餐</a></dd>
+                    
+                             <dd><a href="xuanchuan-12.html">企业宣传型</a></dd>
+                        
+                             <dd><a href="xuanchuan-11.html">行业门户型</a></dd>
+                        
+                             <dd><a href="xuanchuan-10.html">电子商务型</a></dd>
+                        
+                   
+                </dl>
+                <dl>
+                    <dt><a href="new.html" style="color:#b8b8b8">技术资讯</a></dt>
+                    
+                </dl>
+                <dl>
+                    <dt><a href="about.html" style="color:#b8b8b8">关于我们</a></dt>
+                    
+                </dl>
+                <dl>
+                    <dt><a href="contact.html" style="color:#b8b8b8">联系我们</a></dt>
+                    <dd>
+                        <div class="box">
+                            <a href="" class="a1"></a>
+                            <a href="" class="a2"></a>
+ <a><SCRIPT  LANGUAGE="JavaScript" >
+document.writeln("<a href='https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20130411205709877'><img src='images/icon_gs.gif' border=0></a>")</SCRIPT>
+                   </a>
+
+</dd>
+
+
+                        </div>	
+                </dl>
+                <div class="fd-ewm">
+                <div class="img"><img src="images/fd-ewm.jpg" alt="">
+                <img src="images/fd-ewm1.jpg" alt="">
+                </div>
+            </div>
+            </div>
+            
+        </div>
+    </div>
+<div style="padding-top:10px;height:1px;overflow: hidden">
+			<SCRIPT LANGUAGE="JavaScript" >
+			document.writeln("<a href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20130411205709877' target='_blank'><img src='icon.gif' border=0></a>")</SCRIPT>
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fbe014b8f7770107728ca983f905bff92' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+		<script src="http://stat.xiaonaodai.com/stat.php?id=5152971" language="JavaScript" type="text/javascript"></script>
+
+
+		</div>
+<LINK href="css/styleqq.css" type=text/css rel=stylesheet>
+<!-- 代码部分begin -->
+	<div id="lanren">
+		<div class="kfleft" title="点击查看联系方式"></div>
+		<ul>
+			<li><a rel="nofollow" href="http://wpa.qq.com/msgrd?v=3&uin=1915944956&site=qq&menu=yes" title="销售咨询" target="_blank"></a></li>
+			<li><a rel="nofollow" href="http://wpa.qq.com/msgrd?v=3&uin=2674207922&site=qq&menu=yes" title="美工咨询" target="_blank"></a></li>
+			<li><a rel="nofollow" href="http://wpa.qq.com/msgrd?v=3&uin=1915944956&site=qq&menu=yes" title="技术咨询" target="_blank"></a></li>
+			<li><a rel="nofollow" href="http://wpa.qq.com/msgrd?v=3&uin=2674207922&site=qq&menu=yes" title="优化咨询" target="_blank"></a></li>	
+			
+		</ul>
+	</div>
+	<script src="js/jQuery.js"></script>
+	<script>
+		$(function(){
+			$(".kfleft").on("click",function(){
+				var target = $("#lanren");
+				var distance = target.css("right");
+				if (distance == '0px'){
+					target.animate({right:-80}, 200);
+				} else {
+					target.animate({right:0}, 200);
+				}
+			});
+		})
+	</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+	<!-- 代码部分end -->
+
+
+    <!-- 底部 end -->
+
+    <link rel="stylesheet" href="player/mediaelementplayer.css">
+    
+    <script type="text/javascript" src="player/mediaelement-and-player.min.js"></script>
+
+	<link rel="stylesheet" href="css/slick.css">
+
+	<script src="js/slick.min.js"></script>
+
+    <link rel="stylesheet" href="css/animate.min.css">
+
+    <script type="text/javascript" src="js/wow.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.countTo.js"></script>
+
+    <script src="js/jquery.inview.js"></script>
+
+    <script>
+
+        // banner切换
+
+        $('#banner .slider').slick({
+
+            dots: true,
+
+            arrows: false,
+
+            infinite: true,
+
+            speed: 600,
+
+            autoplay: true,
+
+            slidesToShow: 1
+
+        });
+
+
+
+        // 图片集切换
+
+        $('.index-row2 .case .slider').slick({
+
+            dots: false,
+
+            infinite: true,
+
+            slidesToShow: 1,
+
+            slidesToScroll: 1,
+
+            responsive: [
+
+                {
+
+                    breakpoint: 768,
+
+                    settings: {
+
+                        dots: true,
+
+                        arrows: false
+
+                    }
+
+                }
+
+            ]
+
+        });
+
+
+
+        // 我们的服务
+
+        $('.service .list li').click(function (event) {
+
+            /* Act on the event */
+
+            $(this).addClass('on').siblings('li').removeClass('on');
+
+        });
+
+
+
+        //  banner锚点效果
+
+        $('#banner .go-next').click(function () {
+
+            $('html, body').animate({
+
+                scrollTop: $($.attr(this, 'href')).offset().top - $("#hd").innerHeight() * 2
+
+            }, 500);
+
+            return false;
+
+        });
+
+
+
+        // 新闻动态图片切换
+
+        $(".new .col-l .item").mousemove(function () {
+
+            var src = $(this).attr('src');
+
+            $('.new .col-r .img img').attr('src', src);
+
+        });
+
+
+
+        // 我的客户切换
+
+        $('.custom .slider').slick({
+
+            dots: false,
+
+            infinite: true,
+
+            slidesToShow: 1,
+
+            slidesToScroll: 1,
+
+            responsive: [
+
+                {
+
+                    breakpoint: 768,
+
+                    settings: {
+
+                        dots: true,
+
+                        arrows: false
+
+                    }
+
+                }
+
+            ]
+
+        });
+
+
+
+        // 图片列表切换
+
+        $('.new .col-l .slider').slick({
+
+            dots: false,
+
+            infinite: true,
+
+            slidesToShow: 3,
+
+            slidesToScroll: 1,
+
+            vertical: true,
+
+            verticalSwiping: true,
+
+            responsive: [
+
+                {
+
+                    breakpoint: 768,
+
+                    settings: {
+
+                        slidesToShow: 1,
+
+                        slidesToScroll: 1
+
+                    }
+
+                }
+
+            ]
+
+        });
+
+
+
+        $('.new .col-l .slider').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+
+            var Src = $('.new .item.slick-current').attr('src');
+
+            $(".new .img img").attr('src', Src);
+
+        });
+
+
+
+
+
+        // 初始化wow.js
+
+        var wow = new WOW({
+
+            boxClass: 'wow',
+
+            animateClass: 'animated',
+
+            offset: 0,
+
+            mobile: false,
+
+            live: true
+
+        });
+
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+
+            wow.init();
+
+        };
+
+
+
+        $('video,audio').mediaelementplayer();
+
+
+
+        // var video = document.getElementById("video");
+
+
+
+        // $(document).ready(function() {
+
+        //     video.play();
+
+        // });
+
+
+
+        function music() {
+
+            var WindW = $(window).width();
+
+            if (WindW < 768) {
+
+                $(video).attr({ 'src': '' });
+
+                $(".videobox").html('');
+
+            } else {
+
+            }
+
+        }
+
+        music();
+
+        $(window).resize(function (event) {
+
+            music();
+
+        });
+
+
+
+        $('.timer').one('inview', function (event, isInView) {
+
+            if (isInView) {
+
+                $('.timer').countTo();
+
+            }
+
+        });
+
+    </script>
+
+</body>
+
+</html>

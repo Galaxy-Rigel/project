@@ -1,0 +1,48 @@
+<!--banner-->
+<div id="ban"></div>
+<div id="ph-ban">
+    <img src="../images/new/ban1.jpg" alt="">
+</div>
+<!--news-->
+<div id="news">
+    <div class="new-wrap">
+        <div class="wrap-tit1 wow fadeInDown" data-wow-duration="2s">
+            <i>NEWS</i><em>/</em><span>技术资料</span>
+        </div>
+        <!--content-->
+        <ul class="wrap-list container ">
+            <li class="row wow bounceInLeft" data-wow-duration="2s" ng-repeat="item in threeList">
+                <div>
+                    <a ui-sref="detail({id:item.tid})" class="col-sm-5 col-xs-12  pic ">
+                        <img src="{{item.pic}}" alt="">
+                        <span class="date"><em>{{item.pubdate|date: 'dd'}}</em>{{item.pubdate|date: 'yyyy-MM'}}</span>
+                    </a>
+                    <div class="col-sm-7 col-xs-12 text">
+                        <h4><a ui-sref="detail({id:item.tid})">{{item.title}}</a></h4>
+                        <div class="title">
+                            <span>发表于&nbsp;{{item.pubdate|date: 'HH:mm'}}</span>
+                            <span>来源&nbsp;{{item.source}}</span>
+                            <span>浏览次数：{{item.views}}次</span>
+                        </div>
+                        <p>
+                            {{item.desc}}
+                        </p>
+                        <a ui-sref="detail({id:item.tid})" class="btn btn-default">READ MORE</a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <!--pages-->
+        <div  class="pages wow bounceInLeft " data-wow-duration="2s">
+            <ul class="pages-list">
+                <li><a ui-sref="new1">首页</a></li>
+                <li><a ng-click="prevPage()">上一页</a></li>
+                <li ><a ui-sref="new1">1</a></li>
+                <li><a ui-sref="new2">2</a></li>
+                <li class="on"><a ui-sref="new3">3</a></li>
+                <li><a ng-click="nextPage()">下一页</a></li>
+                <li><a ui-sref="new3">尾页</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

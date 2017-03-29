@@ -1,0 +1,94 @@
+header #header-wrap {
+  min-width: 480px;
+  height: 62px;
+  border: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+@media screen and (max-width: 768px) {
+  header #header-wrap #header-brand {
+    margin-left: 32%;
+  }
+}
+@media screen and (max-width: 768px) {
+  header #header-wrap #header-one {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+  }
+}
+header #header-wrap a {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: "微软雅黑";
+}
+header #header-wrap a:hover {
+  color: orange;
+}
+footer {
+  min-width: 486px;
+  background: #393939;
+  font-size: 12px;
+  width: 100%;
+  padding-bottom: 40px;
+  position: relative;
+}
+footer .go-top {
+  display: none;
+  position: fixed;
+  font-size: 24px;
+  right: 30px;
+  top: 560px;
+  color: white;
+  border-radius: 50%;
+  background: rgba(82, 82, 82, 0.5);
+  padding: 10px;
+}
+footer .go-top:hover {
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+footer .footer-copy {
+  color: #929292;
+  padding: 12px 0;
+  margin-bottom: 42px;
+  height: 70px;
+  border-bottom: 1px solid #4d4d4d;
+}
+footer .footer-right {
+  text-align: center;
+}
+footer .footer-right .footer-img {
+  margin-top: 17px;
+}
+footer .footer-right .footer-img img {
+  width: 20%;
+}
+footer #footer-left {
+  overflow: hidden;
+}
+footer #footer-left dt {
+  padding-bottom: 20px;
+}
+footer #footer-left dt a {
+  font-family: "微软雅黑";
+  color: #b8b8b8;
+  font-size: 12px;
+}
+footer #footer-left dd {
+  padding-bottom: 8px;
+}
+footer #footer-left dd a {
+  color: #999;
+}
+footer #footer-left dd .footer-box a {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+footer #footer-left dd .footer-box .a1 {
+  margin-right: 8px;
+}
+@media screen and (max-width: 680px) {
+  footer #footer-left dd {
+    display: none;
+  }
+}

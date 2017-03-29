@@ -1,0 +1,182 @@
+.page-about ul {
+  margin: 0;
+  padding: 0;
+}
+.page-about ul li {
+  list-style: none;
+}
+.page-about .about-banner {
+  height: 340px;
+  background: url('../images/about/ban1.jpg') center no-repeat;
+  background-size: cover;
+}
+.page-about .about-img {
+  display: none;
+  padding-top: 38%;
+  position: relative;
+}
+.page-about .about-img img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+}
+@media (max-width: 768px) {
+  .page-about .about-banner {
+    display: none;
+  }
+  .page-about .about-img {
+    display: block;
+  }
+}
+.page-about #about-db {
+  padding-top: 59px;
+}
+.page-about #about-db .about-wp {
+  padding: 30px 50px;
+  width: 98%;
+  margin: 0 auto;
+}
+.page-about #about-db .about-wp .about-title {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: normal;
+  position: relative;
+  font-family: "Microsoft Yahei";
+}
+.page-about #about-db .about-wp .about-title:after {
+  position: absolute;
+  content: '';
+  width: 42px;
+  height: 2px;
+  background-color: #222;
+  left: 50%;
+  margin-left: -21px;
+  bottom: -9px;
+}
+.page-about #about-db .about-wp .about-subhead {
+  background: url("../images/about/ico-01.png") left center no-repeat;
+  font-size: 18px;
+  font-family: "Microsoft Yahei";
+  color: #555;
+  padding: 60px 0 25px 40px;
+}
+.page-about #about-db .about-wp .about-subhead em {
+  font-style: normal;
+  font-family: "Arial";
+  color: #999;
+}
+.page-about #about-db .about-wp .about-txt p {
+  font-family: "宋体";
+  font-size: 14px;
+  color: #666;
+  line-height: 30px;
+  margin: 0;
+}
+.page-about .about-service {
+  padding-top: 25px;
+  background-image: url("../images/about/pic-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  background-position: 50% 50%;
+  color: #fff;
+}
+.page-about .about-service .about-service-wp {
+  width: 98%;
+  margin: 0 auto;
+}
+.page-about .about-service .about-service-wp h3 {
+  font-family: "Arial";
+  font-size: 27px;
+  position: relative;
+}
+.page-about .about-service .about-service-wp h3:after {
+  position: absolute;
+  content: '';
+  width: 60px;
+  height: 3px;
+  background-color: #fff;
+  left: 50%;
+  margin-left: -30px;
+  bottom: -9px;
+}
+.page-about .about-service .about-service-wp ul {
+  margin-top: 30px;
+}
+.page-about .about-service .about-service-wp ul li {
+  padding: 0 30px;
+  margin-bottom: 40px;
+}
+.page-about .about-service .about-service-wp ul li h4 {
+  font-size: 24px;
+  font-family: "Microsoft Yahei";
+}
+.page-about .about-service .about-service-wp ul li p {
+  height: 116px;
+  font-family: "宋体";
+  font-size: 12px;
+  color: #fff;
+  line-height: 29px;
+  overflow: hidden;
+}
+.page-about .about-num {
+  padding: 40px 0;
+  border-bottom: 1px solid #edecec;
+}
+.page-about .about-num .about-num-wp {
+  width: 98%;
+  margin: 0 auto;
+}
+.page-about .about-num .about-num-wp li {
+  overflow: hidden;
+  padding: 0 20px;
+}
+.page-about .about-num .about-num-wp .num-title {
+  float: left;
+  color: #ff9510;
+  font-size: 40px;
+  background: url("../images/about/ico-02.png") no-repeat right center;
+  min-height: 80px;
+  line-height: 37px;
+  padding-right: 10px;
+}
+.page-about .about-num .about-num-wp .num-title em {
+  font-style: normal;
+  font-size: 48px;
+}
+.page-about .about-num .about-num-wp .num-txt {
+  overflow: hidden;
+  padding-left: 10px;
+}
+.page-about .about-num .about-num-wp .num-txt h4 {
+  color: #ff9510;
+  font-family: "Microsoft Yahei";
+  margin-top: 20px;
+  font-size: 16px;
+}
+.page-about .about-num .about-num-wp .num-txt p {
+  font-family: "宋体";
+  font-size: 13px;
+  color: #666;
+  line-height: 24px;
+  margin: 0;
+}
+.page-about .about-team {
+  width: 98%;
+  margin: 0 auto;
+}
+.page-about .about-team .team-wp {
+  padding: 30px 50px 60px 50px;
+}
+.page-about .about-team .team-wp h4 {
+  font-size: 15px;
+  color: #ff9510;
+}
+.page-about .about-team .team-wp p {
+  font-size: 14px;
+  color: #666;
+  line-height: 28px;
+  margin: 0;
+}

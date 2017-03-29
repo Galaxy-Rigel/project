@@ -1,0 +1,40 @@
+<!--banner-->
+<div id="ban"></div>
+<div id="ph-ban">
+    <img src="../images/new/ban1.jpg" alt="">
+</div>
+<!--news-->
+<div id="news">
+    <div class="new-wrap">
+        <div class="wrap-tit1 wow fadeInDown" data-wow-duration="2s">
+            <i>NEWS</i><em>/</em><span>技术资料</span>
+        </div>
+        <!--content-->
+        <div class=" container wow bounceInLeft">
+            <div class="detail-con col-md-12 col-sm-12">
+                <h4>{{detailList.title}}</h4>
+                <div class="title">
+                    <span>发布时间：{{detailList.pubdate|date: 'yyyy-MM-dd '}}</span>
+                    <span>来源：{{detailList.source}}</span>
+                    <span>浏览次数：{{detailList.views}}</span>
+                </div>
+                <p>{{detailList.desc}}</p>
+                <div ng-repeat="item in detailList.content">
+                    <p>{{item.section_1.tit}}</p>
+                    <p>{{item.section_1.con}}</p>
+                    <p>{{item.section_2.tit}}</p>
+                    <p>{{item.section_2.con}}</p>
+                    <p>{{item.section_3.tit}}</p>
+                    <p>{{item.section_3.con}}</p>
+                    <p>{{item.section_4.tit}}</p>
+                    <p>{{item.section_4.con}}</p>
+                    <p>{{item.section_5.tit}}</p>
+                    <p>{{item.section_5.con}}</p>
+                    <p>{{item.section_6}}</p>
+                </div>
+                <hr>
+                <a ui-sref="new1">&lt;&lt;返回列表 </a>
+            </div>
+        </div>
+    </div>
+</div>
